@@ -29,3 +29,4 @@ group :other_plugins do
     gem 'httparty'
     gem 'github-pages'
 end 
+ 
