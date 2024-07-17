@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'classifier-reborn'
-    gem 'jekyll'
+    gem 'jekyll', "~> 4.2.0"
     gem 'jekyll-archives'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
@@ -27,6 +27,6 @@ group :other_plugins do
     gem 'css_parser'
     gem 'feedjira'
     gem 'httparty'
-    gem 'github-pages'
+    # gem 'github-pages'
 end 
  
