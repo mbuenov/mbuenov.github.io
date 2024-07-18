@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Northwestern University</a>. [mbuenov@u.northwestern.edu](mbuenov@u.northwestern.edu). 
+subtitle: <a href='#'>Northwestern University</a>. mbuenov@u.northwestern.edu. 
 
 profile:
   align: right
