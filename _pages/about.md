@@ -6,7 +6,7 @@ subtitle: <a href='#'>Northwestern University</a>. mbuenov@u.northwestern.edu.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_6869.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>601 University Ave</p>
