@@ -1,200 +1,555 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Michelle Bueno Vásquez",
+    "label": "Political Science Ph.D. Candidate, Applied Statistics MS Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "mbuenov@u.northwestern.edu",
+    "url": "https://michellebuenovasquez.com",
+    "summary": "Researcher focusing on the measure of race, ethnicity, intersectional identity, and their political implications, with a diasporic and transnational focus on Afro-Latino communities in the U.S. and the Caribbean.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Evanston",
+      "countryCode": "US"
     },
+    "research interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Race and ethnicity",
+        "Intersectional identity",
+        "Political implications",
+        "Afro-Latino communities",
+        "U.S. and Caribbean studies"
+      ]
+    }
+  ],
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "mbuenov",
+        "url": "https://github.com/mbuenov"
+      },
+      {
+        "network": "Twitter/X",
+        "username": "_MichelleBuenoV",
+        "url": "https://x.com/_MichelleBuenoV"
       }
     ]
   },
-  "work": [
+
+
+  
+ "education": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "institution": "Northwestern University",
+      "location": "Evanston, IL",
+      "area": "Political Science",
+      "studyType": "Ph.D. Candidate",
+      "startDate": "2019-09-01",
+      "endDate": "2025-06-01",
+      "description": "Field of Study: American Politics and Methodology\nDissertation: Transnational Racial Formation and Charting a Space for Afro-Latinos\nCommittee: Dr. Reuel Rogers (Chair), Dr. Alvin B. Tillery II, Dr. Chloe Thurston, Dr. James Mahoney, Dr. Danielle Clealand"
+    },
+    {
+      "institution": "Northwestern University",
+      "location": "Evanston, IL",
+      "area": "Applied Statistics",
+      "studyType": "Master's Candidate",
+      "startDate": "2022-09-01",
+      "endDate": "2024-09-01",
+      "description": "Field of Study: Quantitative Methodologies"
+    },
+    {
+      "institution": "Northwestern University",
+      "location": "Evanston, IL",
+      "area": "Political Science",
+      "studyType": "Master's",
+      "startDate": "2019-09-01",
+      "endDate": "2021-06-01",
+      "description": "Master's Thesis: Transnational Racial Ideologies: Raising Black Consciousness through Social Media from the U.S. to the Dominican Republic"
+    },
+    {
+      "institution": "University of Chicago",
+      "location": "Chicago, IL",
+      "area": "Political Science",
+      "studyType": "B.A. with Honors",
+      "startDate": "2013-09-01",
+      "endDate": "2017-06-01",
+      "description": "B.A. Thesis: The Effects of Race and Socioeconomic Status on Student Self-Perceptions, Views on Political Agency, and Future Success\nFaculty Advisor: Dr. Michael Dawson"
+    },
+    {
+      "institution": "Institute for Multi-Method and Qualitative Research (IQMR)",
+      "location": "Syracuse University",
+      "area": "",
+      "studyType": "Training",
+      "startDate": "2024-06-15",
+      "endDate": "2024-06-28",
+      "description": ""
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
+  "research_interests": {
+    "description": "My work centers on the measure of race, ethnicity, intersectional identity, and their political implications. I do this through qualitative and quantitative social science, with a diasporic and transnational focus on Afro-Latino communities in the U.S. and the Caribbean."
+  },
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "APSA Dissertation Development Research Improvement Grant",
+      "date": "2024-09-01",
+      "awarder": "American Political Science Association",
+      "amount": "$15,000"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "The Ford Foundation Dissertation Fellowship",
+      "date": "2023-06-01",
+      "awarder": "The Ford Foundation",
+      "amount": "$28,000"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "Northwestern University Council for Race and Ethnic Studies Pre-Doctoral Fellowship",
+      "date": "2022-06-01",
+      "awarder": "Northwestern University"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "title": "Research Grant",
+      "date": "2021-12-01",
+      "awarder": "Center for American Women in Politics",
+      "amount": "$10,000"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "title": "Research Grant",
+      "date": "2020-10-01",
+      "awarder": "Center for the Study of Diversity and Democracy"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "NatDDP Scholarship Recipient",
+      "date": "2020-08-01",
+      "awarder": "National Dominican Day Parade",
+      "description": "2019-2020"
+    },
+    {
+      "title": "LACS Summer Research Funding",
+      "date": "2020-06-01",
+      "awarder": "Northwestern University"
+    },
+    {
+      "title": "American Political Science Association Predoctoral Diversity Fellowship",
+      "date": "2020-05-01",
+      "awarder": "APSA"
+    },
+    {
+      "title": "Northwestern University Graduate Fellowship",
+      "date": "2019-09-01",
+      "awarder": "Northwestern University"
+    },
+    {
+      "title": "The Annual Learning Lab Predoctoral Leadership Prize",
+      "date": "2018-10-01",
+      "awarder": "The University of Chicago"
+    },
+    {
+      "title": "B.A. Thesis awarded Special Honors in Political Science",
+      "date": "2017-04-01",
+      "awarder": "The University of Chicago"
+    },
+    {
+      "title": "Dean's List",
+      "date": "2013-09-01",
+      "awarder": "The University of Chicago",
+      "description": "Sep 2013 - Jun 2017"
+    },
+    {
+      "title": "Summer Metcalf Grant",
+      "date": "2015-06-01",
+      "awarder": "The University of Chicago"
+    },
+    {
+      "title": "QuestBridge College Match Scholarship of Full Tuition",
+      "date": "2013-09-01",
+      "awarder": "The University of Chicago"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "title": "Analysis | Afro-Latino Politicians Could Bridge the African American-Latino Divide",
+      "authors": ["Bueno Vásquez, Michelle", "Matos, Yalidy", "Morel, Domingo"],
+      "publisher": "Washington Post",
+      "releaseDate": "2022-10-25",
+      "url": "https://www.washingtonpost.com/politics/2022/10/25/latino-racism-dominicans-congress/"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "title": "How the U.S. Census Ignores Afro-Latinos",
+      "authors": ["Bueno Vásquez, Michelle"],
+      "publisher": "Washington Post",
+      "releaseDate": "2022-06-03",
+      "url": "https://www.washingtonpost.com/politics/2022/06/03/how-us-census-ignores-afro-latinos/"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "title": "Politics in our Veins: The Rise of Dominican-American Political Power in the United States",
+      "authors": ["Matos, Yalidy", "Morel, Domingo", "Bueno Vásquez, Michelle"],
+      "publisher": "NYU Press",
+      "releaseDate": "",
+      "status": "Forthcoming"
+    },
+    {
+      "title": "Unseen and Unheard: Highlighting the Invisible Struggles of Afro-Latinos in the United States",
+      "authors": ["Bueno Vásquez, Michelle"],
+      "publisher": "",
+      "releaseDate": "",
+      "status": "Book chapter in manuscript",
+      "description": "In Challenges and Issues Facing Marginalized Groups in the United States, edited by Maruice Mangum"
     }
   ],
-  "skills": [
+  "presentations": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "title": "Understanding Afro-Latinx Experiences through Data Disaggregation",
+      "date": "2024-09-03",
+      "event": "Panel",
+      "venue": "University of California, Los Angeles"
+    },
+    {
+      "title": "U.S. Interventions and Racial Rhetorics of Domination",
+      "date": "2022-04-06",
+      "event": "Western Political Science Association, Comparative Analyses of Migration",
+      "venue": "San Francisco, CA"
+    },
+    {
+      "title": "Nightmares of the Sleeping Giant: Latino Minority Essentialization and Afro-Latino Marginalization",
+      "date": "2022-12-07",
+      "event": "Harvard Afro-Latin American Research Institute",
+      "venue": "Cambridge, MA"
+    },
+    {
+      "title": "Face of a Movement: Colorism and Racism in the Evaluation of Black Women Leaders",
+      "date": "2022-09-18",
+      "event": "American Political Science Association 2022 Conference",
+      "venue": "Montréal, Canada",
+      "coauthors": ["Wright, Andrene"]
+    },
+    {
+      "title": "New World Racial Orders: The political salience of racial recategorization in U.S. neo-imperialism in the Caribbean",
+      "date": "2022-05-05",
+      "event": "Latin American Studies Association Congress, Racial Politics in Latin America Section",
+      "venue": "San Francisco, CA"
+    },
+    {
+      "title": "Face of a Movement: Colorism and Racism in the Evaluation of Black Women Leaders",
+      "date": "2022-03-12",
+      "event": "Western Political Science Association",
+      "venue": "Portland, OR",
+      "coauthors": ["Wright, Andrene"]
+    },
+    {
+      "title": "Transnational Racial Ideologies and Colorism",
+      "date": "2021-05-05",
+      "event": "Guest Lecture for Undergraduate Senior Seminar on Race and Racism",
+      "venue": "Notre Dame American Studies Department, South Bend, Indiana"
+    },
+    {
+      "title": "Transnational Black Consciousness Raising Through Social Media: From the U.S. to the Dominican Republic",
+      "date": "2021-03-12",
+      "event": "National Conference of Black Political Scientists",
+      "venue": "New York, NY"
+    },
+    {
+      "title": "Transnational Black Consciousness Raising Through Social Media: From the U.S. to the Dominican Republic",
+      "date": "2020-12-15",
+      "event": "Dominican Studies Association IX Biennial Conference",
+      "venue": "New York, NY"
+    },
+    {
+      "title": "Diversity, Equity, and Inclusion in Execution",
+      "date": "2020-11-18",
+      "event": "Panel",
+      "venue": "The University of Chicago Office of Multicultural Student Affairs, Chicago, IL"
+    },
+    {
+      "title": "Asking and Answering Questions",
+      "date": "2020-07-29",
+      "event": "Guest Lecture",
+      "venue": "Northwestern's Bridge Program for First-Generation College Students"
     }
   ],
-  "languages": [
+  "teaching_experience": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "title": "Teaching Certificate",
+      "institution": "Searle Center for Advancing Teaching and Learning, Northwestern University",
+      "date": "2022-06-01"
+    },
+    {
+      "title": "Teaching Assistant, Statistical Research Methods",
+      "institution": "Department of Political Science, Northwestern University",
+      "professor": "Professor Jason Seawright",
+      "startDate": "2021-09-01",
+      "endDate": "2021-12-01"
+    },
+    {
+      "title": "Teaching Assistant, Graduate Level Introduction to Probability and Statistics",
+      "institution": "Department of Political Science, Northwestern University",
+      "professor": "Professor Jean Clipperton",
+      "startDate": "2021-09-01",
+      "endDate": "2021-12-01"
+    },
+    {
+      "title": "Teaching Assistant, Political Science Department Math Bootcamp",
+      "institution": "Department of Political Science, Northwestern University",
+      "professor": "Professor Jean Clipperton",
+      "startDate": "2021-09-01",
+      "endDate": "2021-09-01"
+    },
+    {
+      "title": "Teaching Assistant, Race, Inequality and the Political Analysis of Public Policy",
+      "institution": "School of Education and Social Policy, Northwestern University",
+      "professor": "Professor Sally Nuamah",
+      "startDate": "2021-01-01",
+      "endDate": "2021-03-01"
+    },
+    {
+      "title": "Teaching Assistant, African American Politics",
+      "institution": "Department of Political Science, Northwestern University",
+      "professor": "Professor Reuel Rogers",
+      "startDate": "2020-09-01",
+      "endDate": "2020-12-01"
+    },
+    {
+      "title": "Private Spanish Teacher (adult and K-12)",
+      "institution": "Spanish Evanston, Evanston, IL",
+      "startDate": "2019-01-01",
+      "endDate": "Present"
+    }
+  ],
+  "leadership": [
+    {
+      "title": "The Commune Chair",
+      "organization": "Northwestern University",
+      "startDate": "2021-09-01",
+      "endDate": "2022-09-01"
+    },
+    {
+      "title": "Racial & Ethnic Politics Workshop Coordinator",
+      "organization": "Northwestern University",
+      "startDate": "2021-09-01",
+      "endDate": "2022-09-01"
+    },
+    {
+      "title": "Teaching Committee Member and TA Mentor",
+      "organization": "Northwestern University",
+      "startDate": "2021-09-01",
+      "endDate": "2022-09-01"
+    }
+  ],
+  
+"additional_research_experience": [
+    {
+      "title": "Graduate Research Assistant",
+      "institution": "Dominican Political Incorporation Project, Dominican Studies Institute, CUNY",
+      "location": "New York, NY",
+      "startDate": "2021-07-01",
+      "endDate": "2021-12-01"
+    },
+    {
+      "title": "Graduate Research Assistant in Political Psychology",
+      "institution": "Northwestern University",
+      "location": "Evanston, IL",
+      "supervisor": "James N. Druckman, Payson S. Wild Professor",
+      "startDate": "2020-03-01",
+      "endDate": "2020-09-01"
+    },
+    {
+      "title": "Graduate Research Assistant in Black Political Participation",
+      "institution": "Northwestern University",
+      "location": "Evanston, IL",
+      "supervisor": "Traci Burch, Associate Professor",
+      "startDate": "2020-03-01",
+      "endDate": "2020-09-01"
+    },
+    {
+      "title": "Cognitive Development Research Assistant",
+      "institution": "The University of Chicago Learning Lab",
+      "location": "Chicago, IL",
+      "startDate": "2018-08-01",
+      "endDate": "2019-06-01"
+    },
+    {
+      "title": "Investment Banking Analyst, Public Finance – Midwest Group",
+      "institution": "Citigroup Global Markets Inc.",
+      "location": "Chicago, IL",
+      "startDate": "2017-06-01",
+      "endDate": "2018-02-01"
+    },
+    
+  "volunteer_work": [
+    {
+      "organization": "Sanctuary Working Group",
+      "location": "Chicago, IL",
+      "position": "On-Call Spanish and French Translator for Migrants and Asylum Seekers",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "DRW College Prep",
+      "location": "Chicago, IL",
+      "position": "Volunteer and Mentor",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+    
+  "education": [
+    {
+      "institution": "Northwestern University",
+      "location": "Evanston, IL",
+      "url": "",
+      "area": "Political Science",
+      "studyType": "Ph.D.",
+      "startDate": "2019-09-01",
+      "endDate": "2025-06-01",
+      "score": "",
+      "courses": ["American Politics", "Methodology"]
+    },
+    {
+      "institution": "Northwestern University",
+      "location": "Evanston, IL",
+      "url": "",
+      "area": "Applied Statistics",
+      "studyType": "Master's",
+      "startDate": "2022-09-01",
+      "endDate": "2024-09-01",
+      "score": "",
+      "courses": ["Quantitative Methodologies"]
+    },
+    {
+      "institution": "Northwestern University",
+      "location": "Evanston, IL",
+      "url": "",
+      "area": "Political Science",
+      "studyType": "Master's",
+      "startDate": "2019-09-01",
+      "endDate": "2021-06-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Chicago",
+      "location": "Chicago, IL",
+      "url": "",
+      "area": "Political Science",
+      "studyType": "B.A. with Honors",
+      "startDate": "2013-09-01",
+      "endDate": "2017-06-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+    
+  "awards": [
+    {
+      "title": "APSA Dissertation Development Research Improvement Grant",
+      "date": "2024-09-01",
+      "awarder": "American Political Science Association",
+      "url": "",
+      "summary": "$15,000 grant"
+    },
+    {
+      "title": "The Ford Foundation Dissertation Fellowship",
+      "date": "2023-06-01",
+      "awarder": "The Ford Foundation",
+      "url": "",
+      "summary": "$28,000 fellowship"
+    },
+    {
+      "title": "Northwestern University Council for Race and Ethnic Studies Pre-Doctoral Fellowship",
+      "date": "2022-06-01",
+      "awarder": "Northwestern University",
+      "url": "",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Teaching Certificate",
+      "date": "2022-06-01",
+      "issuer": "Searle Center for Advancing Teaching and Learning, Northwestern University",
+      "url": "",
       "icon": ""
+    }
+  ],
+  "publications": [
+    {
+      "name": "Analysis | Afro-Latino Politicians Could Bridge the African American-Latino Divide",
+      "publisher": "Washington Post",
+      "releaseDate": "2022-10-25",
+      "url": "https://www.washingtonpost.com/politics/2022/10/25/latino-racism-dominicans-congress/",
+      "summary": ""
+    },
+    {
+      "name": "How the U.S. Census Ignores Afro-Latinos",
+      "publisher": "Washington Post",
+      "releaseDate": "2022-06-03",
+      "url": "https://www.washingtonpost.com/politics/2022/06/03/how-us-census-ignores-afro-latinos/",
+      "summary": ""
+    }
+  ],
+
+
+    
+  "technical skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Proficient",
+      "keywords": ["R", "Python", "SQL", "LaTeX", "STATA"]
+    },
+    {
+      "name": "Software",
+      "level": "Proficient",
+      "keywords": ["Microsoft Office Suite", "Zotero", "Adobe Photoshop", "Illustrator", "Bridge", "Flash", "Lightroom"]
+    }
+  ],
+
+
+    
+  "language proficiency": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "fluency": "Fluent"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "language": "French",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Beginner"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Beginner"
     }
   ],
-  "projects": [
+
+
+    
+  "select references": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Dr. Reuel R. Rogers",
+      "reference": "Professor of Political Science, Northwestern University"
+    },
+    {
+      "name": "Dr. Alvin B. Tillery",
+      "reference": "Professor of Political Science, Northwestern University"
+    },
+    {
+      "name": "Dr. James Mahoney",
+      "reference": "Professor of Political Science and Sociology, Northwestern University"
+    }
+  ],
+  
     }
   ]
 }
