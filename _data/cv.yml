@@ -2,96 +2,114 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
+      value: Michelle Bueno Vásquez
+    - name: Email
+      value: mbuenov@u.northwestern.edu
+    - name: Website
+      value: michellebuenovasquez.com
+    - name: Phone
+      value: (305) 469-9139
+    - name: GitHub
+      value: github.com/mbuenov
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. Candidate in Political Science
+      institution: Northwestern University
+      year: Expected Jun 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Field of Study: American Politics and Methodology
+        - "Dissertation: Transnational Racial Formation and Charting a Space for Afro-Latinos"
+        - "Committee: Dr. Reuel Rogers (Chair), Dr. Alvin B. Tillery II, Dr. Chloe Thurston, Dr. James Mahoney, Dr. Danielle Clealand"
+    - title: Master's Candidate in Applied Statistics
+      institution: Northwestern University
+      year: Expected Sep 2024
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+        - Field of Study: Quantitative Methodologies
+    - title: Master's in Political Science
+      institution: Northwestern University
+      year: Jun 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "Master's Thesis: Transnational Racial Ideologies: Raising Black Consciousness through Social Media from the U.S. to the Dominican Republic"
+    - title: B.A. with Honors in Political Science
+      institution: University of Chicago
+      year: Jun 2017
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+        - "B.A. Thesis: The Effects of Race and Socioeconomic Status on Student Self-Perceptions, Views on Political Agency, and Future Success"
+        - "Faculty Advisor: Dr. Michael Dawson"
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Primary Focus
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Measure of race, ethnicity, and intersectional identity
+        - Political implications of racial and ethnic identity
+        - Qualitative and quantitative social science methodologies
+        - Diasporic and transnational focus on Afro-Latino communities in the U.S. and the Caribbean
+- title: Awards & Scholarships
+  type: time_table
+  contents:
+    - year: 2024
+      items: 
+        - APSA Dissertation Development Research Improvement Grant ($15,000)
+    - year: 2023
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+        - The Ford Foundation Dissertation Fellowship ($28,000)
+    - year: 2022
+      items:
+        - Northwestern University Council for Race and Ethnic Studies Pre-Doctoral Fellowship
+    - year: 2021
+      items:
+        - Research Grant, Center for American Women in Politics ($10,000)
+    - year: 2020
+      items:
+        - Research Grant, Center for the Study of Diversity and Democracy
+        - NatDDP Scholarship Recipient, National Dominican Day Parade
+        - LACS Summer Research Funding, Northwestern University
+        - American Political Science Association Predoctoral Diversity Fellowship
+    - year: 2019
+      items:
+        - Northwestern University Graduate Fellowship
+- title: Publications
+  type: nested_list
+  contents:
+    - title: Journal Articles and Op-Eds
+      items:
+        - 'Bueno Vásquez, Michelle, Yalidy Matos, and Domingo Morel. 2022. "Analysis | Afro-Latino Politicians Could Bridge the African American-Latino Divide." Washington Post.'
+        - 'Bueno Vásquez, Michelle. 2022. "How the U.S. Census Ignores Afro-Latinos." Washington Post.'
+    - title: Books and Book Chapters
+      items:
+        - 'Matos, Yalidy, Domingo Morel, Michelle Bueno Vásquez, "Politics in our Veins: The Rise of Dominican-American Political Power in the United States". NYU Press. Forthcoming.'
+        - 'Bueno Vásquez, Michelle. "Unseen and Unheard: Highlighting the Invisible Struggles of Afro-Latinos in the United States." In Challenges and Issues Facing Marginalized Groups in the United States, edited by Maruice Mangum. Book in manuscript.'
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant, Statistical Research Methods
+      institution: Northwestern University
+      year: Sep 2021 - Dec 2021
+    - title: Teaching Assistant, Graduate Level Introduction to Probability and Statistics
+      institution: Northwestern University
+      year: Sep 2021 - Dec 2021
+    - title: Teaching Assistant, Political Science Department Math Bootcamp
+      institution: Northwestern University
+      year: Sep 2021
+    - title: Teaching Assistant, Race, Inequality and the Political Analysis of Public Policy
+      institution: Northwestern University
+      year: Jan 2021 - Mar 2021
+    - title: Teaching Assistant, African American Politics
+      institution: Northwestern University
+      year: Sep 2020 - Dec 2020
+    - title: Private Spanish Teacher (adult and K-12)
+      institution: Spanish Evanston, Evanston, IL
+      year: Jan 2019 - Present
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "Languages: Spanish (Native Speaker), French (Advanced), English (Fluent), Italian (Beginner), Japanese (Beginner)"
+    - "Software: R, Python, SQL, LaTeX, STATA, Microsoft Office Suite, Zotero, Adobe Photoshop, Illustrator, Bridge, Flash, Lightroom"
+- title: Professional Memberships
+  type: list
+  contents:
+    - American Political Science Association (APSA)
+    - Latin American Studies Association (LASA)
+    - Western Political Science Association
