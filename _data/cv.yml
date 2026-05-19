@@ -79,7 +79,7 @@
         - 'Bueno Vásquez, Michelle. 2022. "How the U.S. Census Ignores Afro-Latinos." Washington Post.'
     - title: Books and Book Chapters
       items:
-        - 'Matos, Yalidy, Domingo Morel, Michelle Bueno Vásquez, "Politics in our Veins: The Rise of Dominican-American Political Power in the United States". NYU Press. Forthcoming.'
+        - 'Matos, Yalidy, Domingo Morel, and Michelle Bueno Vásquez. 2026. "Politics in Our Veins: The Rise of Dominican American Political Power in the United States." NYU Press.'
         - 'Bueno Vásquez, Michelle. "Unseen and Unheard: Highlighting the Invisible Struggles of Afro-Latinos in the United States." In Challenges and Issues Facing Marginalized Groups in the United States, edited by Maruice Mangum. Book in manuscript.'
 - title: Teaching Experience
   type: time_table
@@ -102,11 +102,31 @@
     - title: Private Spanish Teacher (adult and K-12)
       institution: Spanish Evanston, Evanston, IL
       year: Jan 2019 - Present
-- title: Skills
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Programming and Data
+      items:
+        - "R: tidyverse, ggplot2, quanteda, stm, modelsummary, broom, readxl, openxlsx, patchwork, scales."
+        - "Python: pandas, numpy, matplotlib, plotnine, pdfplumber, pdf2image, pytesseract, PIL, pathlib, argparse, urllib."
+        - "Data formats and outputs: CSV, Excel, RDS, PDF text extraction, OCR text, DOCX, PDF, HTML, and publication-ready figures."
+    - title: Methods
+      items:
+        - Survey analysis, statistical modeling, multinomial logistic regression, ordered logit, binary logit, OLS, and AIC model comparison.
+        - Text-as-data analysis, structural topic modeling, KWIC/concordance analysis, sentiment and emotion analysis, and automated qualitative coding.
+        - Computer vision and color measurement workflows, including face-region measurement, CIE L*a*b* color analysis, and CIEDE2000 perceptual distance.
+    - title: Research Engineering
+      items:
+        - End-to-end reproducible pipelines from raw PDFs and survey exports to cleaned datasets, model outputs, diagnostics, tables, and visualizations.
+        - Archival corpus construction, mixed native-text/OCR processing, automated tagging and metadata workflows, and codebook generation.
+- title: Language Skills
   type: list
   contents:
-    - "Languages: Spanish (Native Speaker), French (Advanced), English (Fluent), Italian (Beginner), Japanese (Beginner)"
-    - "Software: R, Python, SQL, LaTeX, STATA, Microsoft Office Suite, Zotero, Adobe Photoshop, Illustrator, Bridge, Flash, Lightroom"
+    - "Spanish: Native speaker"
+    - "English: Fluent"
+    - "French: Advanced"
+    - "Italian: Beginner"
+    - "Japanese: Beginner"
 - title: Professional Memberships
   type: list
   contents:
