@@ -4,18 +4,16 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Michelle
-middle_name: 
+middle_name:
 last_name: Bueno Vásquez
 email: mbuenov@u.northwestern.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Michelle Bueno Vásquez is a political scientist studying race, ethnicity, measurement, and Afro-Latino politics in the United States, Latin America, and the Caribbean.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+keywords: Michelle Bueno Vásquez, political science, Afro-Latino politics, race and ethnicity, measurement, Northwestern University
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: /website-icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: website-icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://mbuenov.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -132,9 +130,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:  # blog_name will be displayed in your blog page
+blog_name: # blog_name will be displayed in your blog page
 blog_description:
-permalink: 
+permalink:
 lsi: false # produce an index for related posts
 
 # Pagination
@@ -170,11 +168,11 @@ disqus_shortname: al-folio # put your disqus shortname
 # external_sources:
 #  enabled: false
 #  name:
-#    rss_url: 
-#  name: 
+#    rss_url:
+#  name:
 #  posts:
-#      url: 
-#      published_date: 
+#      url:
+#      published_date:
 
 # -----------------------------------------------------------------------------
 # Newsletter
